@@ -1,0 +1,10 @@
+[
+  {
+    "id": "lisaa-archi-v1",
+    "name": "LISAA archi v1",
+    "triggerWord": "LISAAARCHI",
+    "loraUrl": "https://github.com/theojcw-source/styleforge-loras/releases/download/loras-v1/lisaa-archi-v1.safetensors",
+    "thumbnailUrl": "https://raw.githubusercontent.com/theojcw-source/styleforge-loras/main/thumbnails/lisaa-archi-v1.jpg",
+    "prompt": "LISAAARCHI architectural exhibition poster, refined student project, editorial composition, precise materials, clean typography space"
+  }
+]
