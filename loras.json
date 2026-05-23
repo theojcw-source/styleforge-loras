@@ -6,5 +6,19 @@
     "loraUrl": "https://github.com/theojcw-source/styleforge-loras/releases/download/loras-v1/lisaa-archi-v1.safetensors",
     "thumbnailUrl": "https://raw.githubusercontent.com/theojcw-source/styleforge-loras/main/thumbnails/lisaa-archi-v1.jpg",
     "prompt": "LISAAARCHI architectural exhibition poster, refined student project, editorial composition, precise materials, clean typography space"
+  },
+  {
+    "id": "fashion-photography-style-v2-flux-epoch-10",
+    "name": "Fashion Photography Style v2",
+    "triggerWord": "FASHIONPHOTO",
+    "loraUrl": "https://github.com/theojcw-source/styleforge-loras/releases/download/loras-v1/fashion-photography-style-v2-flux-epoch-10.safetensors",
+    "prompt": "FASHIONPHOTO fashion editorial photography, studio lighting, refined styling, high-end magazine composition"
+  },
+  {
+    "id": "atelier-de-sevres-art-v1",
+    "name": "Atelier de Sevres art v1",
+    "triggerWord": "ATELIERSEVRESART",
+    "loraUrl": "https://github.com/theojcw-source/styleforge-loras/releases/download/loras-v1/atelier-de-sevres-art-v1.safetensors",
+    "prompt": "ATELIERSEVRESART art school campaign poster, experimental student artwork, contemporary composition, gallery materials, clean typography space"
   }
 ]
